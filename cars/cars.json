@@ -1,0 +1,74 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "production_year": 1988,
+      "convertible": true
+    },
+    {
+      "id": 3,
+      "brand": "Aston Martin",
+      "model": "Rapide",
+      "production_year": 2010,
+      "convertible": false
+    },
+    {
+      "id": 4,
+      "brand": "Maserati",
+      "model": "Mexico",
+      "production_year": 1970,
+      "convertible": false
+    },
+    {
+      "id": 5,
+      "brand": "Nissan",
+      "model": "Fairlady",
+      "production_year": 1974,
+      "convertible": false
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes Benz",
+      "model": "300SL",
+      "production_year": 1967,
+      "convertible": true
+    },
+    {
+      "id": 7,
+      "brand": "Porche",
+      "model": "Carrera",
+      "production_year": 1989,
+      "convertible": true
+    },
+    {
+      "id": 8,
+      "brand": "Porche",
+      "model": "911",
+      "production_year": 1998,
+      "convertible": false
+    },
+    {
+      "id": 9,
+      "brand": "Peugeot",
+      "model": "308",
+      "production_year": 1999,
+      "convertible": false
+    },
+    {
+      "id": 1,
+      "brand": "Rolls Royce",
+      "model": "Phantom",
+      "production_year": 1978,
+      "convertible": false
+    },
+    {
+      "id": 10,
+      "brand": "Porche",
+      "model": "911",
+      "production_year": 1999,
+      "convertible": true
+    }
+  ]
+}
